@@ -1,6 +1,6 @@
 ---
 
-# 🌟 Java 알고리즘 문제 풀이 레포지토리 🚀
+# 🌟 Java 알고리즘 문제 풀이 🚀
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/coding-java.gif" alt="Coding with Java" width="400">
